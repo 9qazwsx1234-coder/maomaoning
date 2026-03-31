@@ -1,0 +1,20 @@
+{
+  "name": "💉˚༝ 無糖試薬⊹ ฺﾟ",
+  "short_name": "💉˚༝ 無糖試薬⊹ ฺﾟ",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://img.chery.cn/chery-prod/mobile/community/0/b46f286c-c34c-4160-bc49-a4603a16a6e3.jpeg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.chery.cn/chery-prod/mobile/community/0/b46f286c-c34c-4160-bc49-a4603a16a6e3.jpeg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
